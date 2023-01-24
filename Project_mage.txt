@@ -1,0 +1,5 @@
+This project was a game that was made for a course at the Tech Collage of Iceland.
+The idea for it was quite simple so that i could finish it with reletive ease.
+The game is a score based horde survival type game where you endlessly fight skeletons using two magic spells one of which freezes enemies in place.
+Enemy veriety is sorley lacking but it was a fine project for the skills I had at the time aswell as the time window i got to make it.
+We had to record a little bit of gameplay to turn in this project and the easiest way to turn that in was to pu it up on youtube so the video can be found below.
