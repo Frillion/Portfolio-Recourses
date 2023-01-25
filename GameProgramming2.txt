@@ -1,0 +1,5 @@
+This was the second project we did for a game development course at the Tech collage of Iceland.
+The project was taking the roll-a-ball tutorial from unity and adding a little of our own so the environment made is different from that tutorial aswell as a jumping function.
+The project is done in c# as all of my unity projects are, quite a nice language probably my second favorite next to c++.
+The project was a nice first in engine project for the course and i took that with a breeze since id already tinkered with unity beforehand.
+A video of the game can be found below:
