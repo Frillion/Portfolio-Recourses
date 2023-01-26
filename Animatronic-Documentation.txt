@@ -1,0 +1,4 @@
+This project was a final for an electronics/Arduino course at the Tech collage of Iceland.
+It was a fairly exciting project cause the concept was that we where making an animatronic halloween decoration.
+We got to concept the design and what movements it was supposed to do but unfortunately this project got left unfinished
+after a lack of showing up to class by most of the group members and hardware not being a strong suit of mine.

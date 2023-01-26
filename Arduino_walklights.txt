@@ -1,0 +1,6 @@
+This was the third venture into the Arduino microcontroller world.
+This time the project was similar to the last one but with a slightly different twist.
+The first part was making the traffic lights like before but this time the state change was controlled
+by a button.
+The two other leds are to act like walklights, as the name implies.
+Below is a video of it functioning:

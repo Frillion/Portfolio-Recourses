@@ -1,0 +1,6 @@
+This was the final project i did in a hardwear/Arduino course at the Tech collage of Iceland.
+Although this is a final project its far from the last time i picked up a microcontroller however.
+It was quite a fun project to work on, the way it works is that the sonar hooked onto a small motor
+spins around in a searching pattern back and forth untill the ultra sonic sensor picks up an object infront of it.
+If the sonar finds a target it stops the motor in place untill the object is moved away.
+There is also an option to take controll with a little joystick.

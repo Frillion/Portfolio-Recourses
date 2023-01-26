@@ -1,0 +1,3 @@
+This was the very first project i did in both the language of c and on an Arduino microcontroller.
+As the name and video suggest, this is a binary counter using 8 bits.
+It was an interesting challenge at the time but i took it head on and finished with the counter counting both up and down.
