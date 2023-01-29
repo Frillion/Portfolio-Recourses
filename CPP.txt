@@ -1,0 +1,4 @@
+This is a collection of projects the where developed at the c++ course at the Tech collage of Iceland.
+Everything I did leading up to the Booking command line program can be found in this repository.
+Just minor console apps to practice specific things we learned about the laguage such as pointers,
+linked lists and how classes worked in c++ vs. Python.
