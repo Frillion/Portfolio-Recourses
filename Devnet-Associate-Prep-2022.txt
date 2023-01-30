@@ -1,0 +1,5 @@
+This was the main repository that I used while taking the course to prepare me for my CCDA exam.
+All of the files here are from the virtual machine that I used while learing all the concepts of the devnet associate.
+Files including Packettracer for network simulation, the files used for Jenkins, Docker containers and more.
+This was a lovely course to take and although I needed a bit of extra practice and studying to pass this experiance helped alot.
+As said in the CERTIFACATION section of the website I did manage to pass this exam to become a cisco certified devnet associate and I couldn't be happier for that.

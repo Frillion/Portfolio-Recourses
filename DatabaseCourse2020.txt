@@ -1,0 +1,6 @@
+This is a collection of three projects working on a mock mysql database for a website that manages what courses and tracks students are taking.
+Project1 is setup for the progresstracker database and a bunch of stored procedures and functions to fetch specific data or create some courses.
+Project2 is the adding of triggers to make sure that students can take specific courses and to add the first semester.
+Project3 are stored procedures returning specific data in JSON format so that it could be called and parsed from a different program one that we didnt make in this course but later on i did.
+This was during the phase at which i experienced massive burnout from school so I did fail this semester but later on i retook this course with more determination and passed with a full 10/10.
+The course was quite a nice experience it was just a shame that I didn't have the energy to continue at that moment.
