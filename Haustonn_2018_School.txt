@@ -1,0 +1,4 @@
+This is a collection over an entire semester at the Tech collage of Iceland.
+I got really into using git version controll at this time so i decided to put all the projects in one repository.
+It contains a bunch of projects for mysql databases, python programming, networking, and python web app development.
+Fine semester as it was before my burnout period so i passed all the classes with a fairly high degree of success.

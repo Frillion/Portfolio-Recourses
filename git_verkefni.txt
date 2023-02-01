@@ -1,0 +1,4 @@
+This is the first time I got introduced to git version controll.
+Just a txt file with answers to a bunch of question which I didnt learn that much from.
+What really go tme familliar with git was to just use it for virtually every project ive done since this and ive fallen in love with version controll now.
+Over all not much to say about this except the fact that ive gotten really familliar with version controll systems and have gotten way more comfy using them along side CI/CD since then.

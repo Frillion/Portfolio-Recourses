@@ -1,0 +1,5 @@
+This is the final project for a course at the Tech collage of Iceland preparing you for the CCNA, this is the second of four courses, Routing and Switching.
+The senario set up is a company with 4 branches all over iceland and it has the same network topology in each branch.
+What is needed to set up is vlans, native management vlans, ripv2 for routers and dhcp.
+Ofcourse while doing all this setup we need to consider security aswell so setting up passwords and restricting access with access lists and such.
+This was a fine project altho now a days we would set these things up programmatically using APIs.

@@ -1,0 +1,5 @@
+This was the very first course i took for programming in general and its nice too look back to see how far ive come since then.
+I had been interested in coding before that and dabbled a little in it before going into this but this was my first big forte into it.
+These programs are extremely simple and im sure I could make them better with the knowledge I have today.
+The skills on display here go from basic python syntax up to using classes, functions and various datastructures in python e.g. dicts,lists and tuples.
+At the end of the day this is where it all began and now its still goin to this day and will go on till the end of my days and I cant wait to start working in this industry.
