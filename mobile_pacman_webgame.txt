@@ -1,0 +1,3 @@
+This was one of those projects that I really like for the javascript course at the Tach collage of Iceland.
+I was tasked with making a little game using canvas that should be mobile compatable using a pacman drawing we had made with canvas before this.
+Its working ok, could probably be done a little better but Im pretty happy with it.
