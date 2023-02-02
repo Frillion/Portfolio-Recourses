@@ -1,0 +1,4 @@
+This is one of my more recent ventures, a practice in javascript DOM.
+The criteria for this was to not use any html elements and fill the web page entirely with javascript DOM elements.
+The concept of this was quite easy to understand and having a fair bit of programming skill after taking the break from school and coming back I got most of these projects with minimal effort.
+It was quite fun to work on these even though I couldve done these projects at a faster pace than the course allowed for.
