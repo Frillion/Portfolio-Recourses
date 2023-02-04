@@ -1,0 +1,5 @@
+This is a collection of projects that I did in mysql databases for the Tech collage of Iceland and the last time I did so.
+The project Im most proud of here is Practice5 where we where tasked with making a database that mimics the core of stackOverflow.
+So users can post many questions which have topics and multiple answers that many users can post.
+It was a good challange to build and I did have to revisit the design multiple times.
+Along with design we had to make CRUD operations for atleast 3 tables but I did so for all of them and documented it in the README.
