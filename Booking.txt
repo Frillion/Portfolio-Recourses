@@ -1,10 +1,10 @@
-This project was the final for the c++ course i took at the Tech collage of Iceland.
+This project was the final for the c++ course I took at the Tech college of Iceland.
 The c++ language came quite naturally to me so this project was completed without much issue.
-The project made me use all the facets of what I learned about c++ including how classes work, inharitance, how pointers function and how to save/read information in binary files.
+I was made to use all the facets of what I learned about c++ including how classes work, inharitance, how pointers function and how to store/read information in binary files.
 So this program is a command line interface where you can move between three different modes Hiking, Skiing and Biking.
 In these modes you have the option of creating, deleting, saving or listing those types of reservations.
 Each type of reservation inherits from a booking class and then the main app uses a linked list of bookings for storage, allowing each type of booking to be stored in one list.
 One funny thing during the development is that I tried saving all the reservation types in one file but after a long time of testing the teacher
-just told me to save them seperately cause of the ammount of work required to destinguish the type of the data.
-But thats the way ive always been, wanting to go beyond the required level of knowledge for a course, always learning more.
-I am quite happy with how this turned out in the end, and after this experiance i can say that my favorite language is the c laguage family.
+just told me to save them seperately cause of the ammount of work required to destinguish between the different types of data.
+But thats the way I've always been, wanting to go beyond the required level of knowledge for a course, always learning more.
+I am quite happy with how this turned out in the end, and after this experiance I can say that my favorite languages are the c laguage family.

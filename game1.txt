@@ -1,4 +1,4 @@
-This was the first project for a game development course at the Tech collage of Iceland.
+This was the first project for a game development course at the Tech college of Iceland.
 This was something we did before jumping into the unity game engine, just answering a few questions.
 Some questions where just what a game loop is, what a game engine is, what assest are etc..
-Not really my cup of tea in terms of learing i like doing something more productive when I learn, gets you more familliar with the environment youll be working in.
+Not really my cup of tea in terms of learing I like doing something more productive when I learn, gets you more familliar with the environment you'll be working in.

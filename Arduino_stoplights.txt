@@ -1,4 +1,4 @@
-This is the second time i picked up the microcontroller for a coding adventure.
+This is the second time I picked up the microcontroller for a coding adventure.
 This one was the making of traffic lights that periodically change their state
 to "allow cars to move forward" in theory.
 At the end of the day it was quite a simple but fun project to work on.

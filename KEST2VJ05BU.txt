@@ -1,3 +1,3 @@
-This repository just has answers to a few questions we had about computer hardware at the Tech collage of Iceland.
+This repository just has answers to a few questions we had about computer hardware at the Tech college of Iceland.
 Not too much to talk about here, it was just something we did before jumping into arduino stuff and assembling 
 a computer by ourselves, windows installation and management included.

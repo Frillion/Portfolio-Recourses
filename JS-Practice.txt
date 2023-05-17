@@ -1,5 +1,5 @@
-This is the main repository I used for the javascript course I took at the Tech collage of Iceland.
+This is the main repository I used for the javascript course I took at the Tech college of Iceland.
 All of the javascript project repositories that are listed on this website are accessable through this one.
 There are many projects not listed on the website which can be found in here, one of those being a practice in anime.js animation.
 This was a fine course even if I couldve learned all this on my own after the amout I coded during my break.
-Its unfortunate that I took this course at the time I did but that fine aswell.
+Its unfortunate that I took this course at the time I did but thats fine aswell.

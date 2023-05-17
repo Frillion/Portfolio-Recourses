@@ -1,5 +1,5 @@
 This project was quite a fun one, it was a web app built in flask python and used a multi purpose API.
 The part of the API that I used was a list of all petrol stations in Iceland along with geo location and prices.
 The website is split into categories for Atlandsolía,Olís and such aswell as by province and the front page shows the cheapest option.
-If I would change anything about this project doing it now would be 1. to use javascript to make things seemless and 2. to not list Costco as the cheapest option or atleast list another cheapest option.
-The reason for the second change is that Costco always ends up being the cheapest option because of how they run their buisness, mainly the subscription costs.
+If I would change anything about this project doing it now would be 1. to use javascript to make transitions seemless and 2. to not list Costco as the cheapest option or atleast list another cheapest option along side it.
+The reason for the second change is that Costco always ends up being the cheapest option because of how they run their business, mainly the subscription costs.

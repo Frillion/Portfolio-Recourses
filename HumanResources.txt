@@ -1,4 +1,4 @@
-In a web programming course at the Tech collage of Iceland we where tasked with making a webpage making a call to a database.
+In a web programming course at the Tech college of Iceland we where tasked with making a webpage making a call to a database.
 Since I had already done work on a microsoft HR database template I decided to use that database to make my project which was a bit more work than was required of me but I always want to do more and learn more.
 I did manage to complete this even with the extra workload and I was quite happy with how it turned out, it even has a login so that not everyone can see all the data within.
 The website itself was taken offline unforunately but the repository still stands.

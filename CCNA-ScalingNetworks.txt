@@ -1,5 +1,5 @@
 This repository holds a collection of projects conected to the third course, out of four, required 
 before taking the cisco certified network associate test.
 This course was fine and I did fairly well in it, although I never went on to finish the ccna.
-The course was quite a big step for networking knowledge, moving beyond small icolated networks to working with the WAN
-and buisness networks.
+The course was quite a big step for networking knowledge, moving beyond small isolated networks to working with the WAN
+and business networks.

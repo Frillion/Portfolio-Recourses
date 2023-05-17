@@ -1,3 +1,3 @@
 This contains all of the practice assignments done in PacketTracer,a network simulatior made by cisco, for the devnet associate course.
 Ive always had quite a bit of fun working with PacketTracer cause it gives a little sense of handy work like youre actually doing instead of reading about something.
-Over all the devnet associate was a great experience to learn about and I have felt the effect of it imediately as i started coding again after it.
+Over all the devnet associate was a great experience to learn about and I have felt the effect of it imediately as I started coding again after it.

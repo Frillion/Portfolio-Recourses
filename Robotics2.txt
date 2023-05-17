@@ -1,4 +1,6 @@
-This is a Project being worked on for a vex robotics competition at the Tech collage of Iceland.
-We have to design a robot to compete in the vex tower takeover that we will host in class.
+This is a Project we worked on for a vex robotics competition at the Tech college of Iceland.
+We had to design a robot to compete in the vex tower takeover that we hosted in class.
 The design me and my partner settled on is a claw bot that has a cage on the end of its arm to stack cubes.
-Im excited to see how this tuns out in the end, lets hope we can pull this off in style.
+Over all things went well even if we had to revisit designs over and over again.
+Eventually we had to scrap the cage for a smaller one since it was just too heavy for the motors and the frame of the bot.
+We did fine in the competition and it was rather fun.

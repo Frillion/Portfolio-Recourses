@@ -1,4 +1,4 @@
-This was the first time i picked up databases, it was quite exciting cause it was something that at the time I had done no research on and bearly knew how things worked.
+This was the first time I picked up databases, it was quite exciting cause it was something that at the time I had done no research on and bearly knew how things worked.
 Like most of the time however it didnt take long for me to get in a state of flow where I coded and designed for hours on end without interuption.
 The structure of this course was mainly to get used to designing relational databases and to get familliar with the various keywords in mysql.
 Nothing fancy was done with triggers and stored procedures and the like.

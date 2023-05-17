@@ -1,5 +1,5 @@
-This was a game development project using unity c# that i started on for the sake of taking part in a 1 month GameJam.
-The theme of the Jam was bugs so i got together with a friend and we brainstormed a few ideas.
-The idea settled uppon was a little adventure game themed around insects and to have some wierd intentional
-bugs the player could exploit therefore incorporating that theme in two different ways.
-This project was a promissing one but sadly it stays unfinished to this day and was never submitted to the Jam.
+This was a game development project using unity c# that I started on for the sake of taking part in a 1 month GameJam.
+The theme of the Jam was bugs so I got together with a friend and we brainstormed a few ideas.
+The idea settled upon was a little adventure game themed around insects and to have some wierd intentional
+bugs the player could exploit therefore incorporating the theme in two different ways.
+This project was a promising one but unfortunately it stays unfinished to this day and was never submitted to the Jam.

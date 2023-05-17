@@ -1,4 +1,4 @@
-This was part of a javascript course at the Tech collage of Iceland.
+This was part of a javascript course at the Tech college of Iceland.
 The project was a little practice at using events and understanding how they work.
 I learned how to use them most by both reading the API documentation and trial and error.
-It turned out quite fine after not too much effort and im even using the things I learned for this very web page.
+It turned out quite fine after not too much effort and I'm even using the things I learned for this very web page.

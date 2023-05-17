@@ -1,5 +1,5 @@
-This was the third course i took of python programming at the Tech collage of Iceland.
+This was the third course I took of python programming at the Tech college of Iceland.
 In this course we did a veriety of small practice programs ranging from working with classes to python datastructures and string manipulation.
 At the end of the course we even played around with a library called pygame to make a little game, so that experiance was pretty fun.
-This was the start of my development journey in a sense, where i got the grips on python and was ready to move on to other languages.
-Today i keep going at a more rapid pace than ever before learing more and more about this field I love.
+This was the start of my development journey in a sense, where I got the grips on python and was ready to move on to other languages.
+Today I keep going at a more rapid pace than ever before learing more and more about this field I love.

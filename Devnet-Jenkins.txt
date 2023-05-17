@@ -1,4 +1,4 @@
 This repository holds all of the files that where needed for the devnet course for making a Docker Jenkins CI/CD pipeline.
-Using Jenkins for the first time was quite an interesting experience since i hadnt really heard of what devops was before this course.
-Now however i hear that term get thrown around every corner and it feels so good to properly understand what is being talked about.
+Using Jenkins for the first time was quite an interesting experience since I hadnt really heard of what devops was before this course.
+Now however I hear that term get thrown around every corner and it feels so good to properly understand what is being talked about.
 Over all a great experience to get this certification.

@@ -1,5 +1,5 @@
-This is a project that I am quite proud of, it was made for a javascript course at the Tech collage of Iceland.
+This is a project that I am quite proud of, it was made for a javascript course at the Tech college of Iceland.
 The project is a Single Page Application, SPA for short, where paintings are listed for sale.
-The main meat of the webpage are the various filters that sort the paintings based off artist name, atwork name, date from,date to and price.
+The main meat of the webpage are the various filters that sort the paintings based off artist name, artwork name, date from,date to and price.
 This did take a while to get completely right but it wasnt too much of a hastle.
-Lovley little project to work on and the most recent one too.
+Lovley little project to work on.
